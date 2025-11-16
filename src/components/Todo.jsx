@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import checkList_icon from "../assets/checkList.png";
+import checkList_icon from "../assets/checklist.png";
 import TodoItems from "./TodoItems";
 
 function Todo() {
